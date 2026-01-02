@@ -1,16 +1,21 @@
-## Hi there 👋
+## Qedric James
 
-<!--
-**qedric/qedric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack, Frontend-leaning Dev focused on React, TypeScript, and production-grade UX for complex asynchronous systems.
 
-Here are some ideas to get you started:
+### What I do
+- Build and maintain web applications where correctness, reliability, and clear user interaction matter
+- Own complex async flows including loading, failure handling, retries, and recovery paths
+- Integrate with third-party SDKs, APIs, and infrastructure-adjacent tooling, and harden them for real-world use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experience
+- 5+ years building production web applications
+- Strong focus on clean component architecture, performance, and accessibility
+- Comfortable working close to backend services, protocols, and external dependencies
+- Experience collaborating closely with product and design to translate Figma designs into high-fidelity interfaces
+
+### Tech
+- React, TypeScript
+- State management and async data flows
+- Modern frontend tooling (CI/CD)
+- REST APIs
+- Web3 / crypto integrations (wallets, SDKs, async UX)
