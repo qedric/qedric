@@ -1,6 +1,6 @@
 ## Qedric James
 
-Full-stack engineer, frontend-leaning, with a strong focus on **React, TypeScript, and production-grade UX** for complex, asynchronous systems — and deep experience in **blockchain / Web3 integrations and protocol-adjacent products**.
+Full-stack engineer, frontend-leaning, with a strong focus on **React, TypeScript, and production-grade UX** for complex, asynchronous systems, as well as deep experience in **blockchain / Web3 integrations and protocol-adjacent products**.
 
 I specialize in making technically complex systems usable, predictable, and safe for real users.
 
